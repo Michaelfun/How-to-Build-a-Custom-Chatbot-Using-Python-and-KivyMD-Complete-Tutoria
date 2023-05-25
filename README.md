@@ -3,4 +3,4 @@
 paython==10.10
 kivymd==1.1.1
 kivy==2.1.0
-chatterbot==1.0.7
+chatterbot==1.0.4
